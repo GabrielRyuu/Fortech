@@ -18,7 +18,7 @@ Projeto feito em faculdade, cada grupo teve que fazer uma empresa. Para mais det
  
 <a href="https://drive.google.com/file/d/1vTPbVhIGbE3b7sOLe5hRzvFsylipH6u4/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 
-- Website: [https://fortech-project.vercel.app/](https://fortech-project.vercel.app/)
+- Modelo para visualização do Website: [https://fortech-project.vercel.app/](https://fortech-project.vercel.app/)
 
 ## 🚀 Linguagens
 
