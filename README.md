@@ -14,7 +14,7 @@
 
 ## 📝 Descrição 
 
-Desenvolvimento de um site responsivo por conta da necessidade de uma empresa divulgar seus serviços. Isso resultou na criação de um site com o propósito de demonstrar os serviços oferecidos por essa empresa. 
+Desenvolvi um site responsivo utilizando HTML, CSS e JavaScript para atender à necessidade de divulgar serviços. Isso resultou na criação de um site com o propósito de demonstrar os serviços oferecidos. 
 
 - Modelo para visualização do Website: [https://fortech-project.vercel.app/](https://fortech-project.vercel.app/)
 
